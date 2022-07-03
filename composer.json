@@ -1,5 +1,5 @@
 {
-  "main": "bin/www.js"
+  "main": "www.js"
   "scripts": {
     "start": "node ."
   }
